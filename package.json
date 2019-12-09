@@ -1,0 +1,17 @@
+{
+    "name": "udeploy-cli",
+    "description": "a udeploy client cli client",
+    "author": "Ruhua Wang",
+    "version": "1.0.0",
+    "license": "MIT",
+    "bin": {
+      "udeploy-cli": "cli.js"
+    },
+    "dependencies": {
+      "axios": "^0.19.0",
+      "boxen": "^4.1.0",
+      "chalk": "^3.0.0",
+      "open": "^7.0.0",
+      "yargs": "^15.0.2"
+    }
+  }
