@@ -5,7 +5,7 @@
     "version": "1.0.0",
     "license": "MIT",
     "bin": {
-      "udeploy-cli": "cli.js"
+      "udc": "./bin/ucd.js"
     },
     "dependencies": {
       "axios": "^0.19.0",
